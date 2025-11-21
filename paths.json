@@ -1,17 +1,17 @@
 {
   "mappings": [
-    "/content/mosl-mf-sites/:/",
-    "/content/mosl-mf-sites/configuration:/.helix/config.json",
-    "/content/mosl-mf-sites/metadata:/metadata.json",
-    "/content/mosl-mf-sites/api/faq:/api/faq.json",
-    "/content/mosl-mf-sites/api/form-api:/api/form-api.json",
-    "/content/mosl-mf-sites/api/fund-api:/api/fund-api.json",
-    "/content/mosl-mf-sites/placeholder:/placeholder.json",
-    "/content/mosl-mf-sites/schememaster:/schememaster.json",
-    "/content/mosl-mf-sites/api/nav-and-dividendupload:/api/nav-and-dividendupload.json"
+    "/content/mosl-mf/:/",
+    "/content/mosl-mf/configuration:/.helix/config.json",
+    "/content/mosl-mf/metadata:/metadata.json",
+    "/content/mosl-mf/api/faq:/api/faq.json",
+    "/content/mosl-mf/api/form-api:/api/form-api.json",
+    "/content/mosl-mf/api/fund-api:/api/fund-api.json",
+    "/content/mosl-mf/placeholder:/placeholder.json",
+    "/content/mosl-mf/schememaster:/schememaster.json",
+    "/content/mosl-mf/api/nav-and-dividendupload:/api/nav-and-dividendupload.json"
 
   ],
   "includes": [
-    "/content/mosl-mf-sites/"
+    "/content/mosl-mf/"
   ]
 }
